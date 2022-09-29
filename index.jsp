@@ -3,6 +3,6 @@
 		
 	</head>
 	<body>
-		Bienvenidos...
+		Bienvenidos al curso de LPIII...
 	</body>
 </html>
